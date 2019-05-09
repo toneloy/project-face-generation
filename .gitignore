@@ -1,0 +1,8 @@
+*.pyc
+.ipynb_checkpoints/
+.ipynb_checpoints/*
+.DS_Store
+.idea/
+.idea/*
+processed_celeba_small*
+
